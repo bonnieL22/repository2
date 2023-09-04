@@ -1,6 +1,2 @@
-
-X-SCADA AI
-ae3f411a-2346-c26c-0f4e-27cb013a9e57
-
-스트리밍
-73f62fca-0eae-2930-7426-9fcd2fbc9e8a
+test
+asdfasdfasdf
